@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "CSC",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:honey_bottle"
+        },
+        "C": {
+            "item": "minecraft:coal"
+        },
+        "S": {
+            "item": "minecraft:skeleton_skull"
+        },
+        "B": {
+            "item": "minecraft:black_concrete_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:wither_skeleton_skull",
+        "count": 1
+    }
+}
