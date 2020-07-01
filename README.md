@@ -1,4 +1,4 @@
-# Nether Star Crafting Recipe
+# Recipes for uncraftable items in Minecraft
 
 ## Setup
 
