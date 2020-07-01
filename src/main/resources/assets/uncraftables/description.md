@@ -1,6 +1,6 @@
 What does this mod do?
 ==================
-A lot of Vanilla Minecraft items are uncraftable and some of them can only obtained via grinding or luck or once. I want to change this, but I'm a big fan of balancing, so these items are still hard in my opinion, even with this mod. If not make it hard, we may just play in Creative mode, right?
+A lot of Vanilla Minecraft items are uncraftable and some of them can only obtained via grinding or luck or once. I want to change this, but I'm a big fan of balancing, so these items are still hard to obtain in my opinion, even with this mod. If not make it hard, we may just play in Creative mode, right?
 
 The first recipe lets you turn a skeleton skull into a wither skull by adding some coal and black concrete powder to it and making it stick with honey or slime. Nobody will notice the difference! That way, you can effectively farm skeletons instead of wither skeletons which are more common and even have spawners. This mod does not increase the drop chance for the skulls, though.
 
@@ -20,7 +20,7 @@ Gilded blackstone is a new fancy stone I haven't encountered yet and I'm sure it
 
 Elytras are really easy to craft though. Why has no one else figured that out yet? Just strap some phantom membrane on some end rods and add a nether star for good measure and off we go!
 
-![1. row: Phantom Membrane (x3); 2. row: End Rod / Nether Star / End Rod; 3. row: Phantom Membrane / [empty] / Phantom Membrane](https://media.forgecdn.net/attachments/300/501/elytra_recipe.png "Elytra Crafting Recipe")
+![1. row: Phantom Membrane (x3); 2. row: End Rod / Nether Star / End Rod; 3. row: Phantom Membrane / (empty) / Phantom Membrane](https://media.forgecdn.net/attachments/300/501/elytra_recipe.png "Elytra Crafting Recipe")
 
 A dragon head is fun to craft! The end crystal is the eyes, the prismarine shard the horns, and the nose is gilded blackstone! (The dragon has a cold, you know, don't judge him. Oh, now you made him cry!) Of course the dragon's mouth is full of his breath and fire.
 
