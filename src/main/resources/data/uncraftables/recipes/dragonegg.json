@@ -1,16 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#GD",
-        "CNC",
-        "AJA"
+        "#DC",
+        "GNG",
+        "YTY"
     ],
     "key": {
         "#": {
             "item": "minecraft:elytra"
-        },
-        "G": {
-            "item": "minecraft:gilded_blackstone"
         },
         "D": {
             "item": "minecraft:dragon_head"
@@ -18,13 +15,16 @@
         "C": {
             "item": "minecraft:dragon_breath"
         },
+        "G": {
+            "item": "minecraft:gilded_blackstone"
+        },
         "N": {
             "item": "minecraft:nether_star"
         },
-        "A": {
+        "Y": {
             "item": "minecraft:netherite_block"
         },
-        "J": {
+        "T": {
             "item": "minecraft:crying_obsidian"
         }
     },
