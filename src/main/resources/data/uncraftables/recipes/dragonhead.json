@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#BG",
+        "EDF",
+        "COO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "B": {
+            "item": "minecraft:blackstone"
+        },
+        "G": {
+            "item": "minecraft:gilded_blackstone"
+        },
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "F": {
+            "item": "minecraft:fire_charge"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+    }
+}

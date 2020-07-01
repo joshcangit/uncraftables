@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#GD",
+        "CNC",
+        "AJA"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:elytra"
+        },
+        "G": {
+            "item": "minecraft:gilded_blackstone"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "C": {
+            "item": "minecraft:dragon_breath"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "A": {
+            "item": "minecraft:netherite_block"
+        },
+        "J": {
+            "item": "minecraft:crying_obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    }
+}

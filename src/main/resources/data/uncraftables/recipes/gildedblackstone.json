@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "GNG",
+        "CCC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ghast_tear"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        },
+        "C": {
+            "item": "minecraft:cracked_polished_blackstone_bricks"
+        }
+    },
+    "result": {
+        "item": "minecraft:gilded_blackstone",
+        "count": 1
+    }
+}
