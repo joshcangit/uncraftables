@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "#L#",
-        "GNG",
+        "gng",
         "CCC"
     ],
     "key": {
@@ -12,11 +12,11 @@
         "L": {
             "item": "minecraft:lava_bucket"
         },
-        "G": {
-            "item": "minecraft:gold_block"
+        "g": {
+            "item": "minecraft:gold_ingot"
         },
-        "N": {
-            "item": "minecraft:netherite_block"
+        "n": {
+            "item": "minecraft:netherite_ingot"
         },
         "C": {
             "item": "minecraft:cracked_polished_blackstone_bricks"
@@ -24,6 +24,6 @@
     },
     "result": {
         "item": "minecraft:gilded_blackstone",
-        "count": 1
+        "count": 3
     }
 }
