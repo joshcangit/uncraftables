@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "GSG",
+        "YBL"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:slime_ball"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        },
+        "S": {
+            "item": "minecraft:skeleton_skull"
+        },
+        "Y": {
+            "item": "minecraft:green_concrete_powder"
+        },
+        "B": {
+            "item": "minecraft:black_concrete_powder"
+        },
+        "L": {
+            "item": "minecraft:lime_concrete_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:creeper_head",
+        "count": 1
+    }
+}

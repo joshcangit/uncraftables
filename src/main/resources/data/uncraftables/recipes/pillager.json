@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:light_gray_concrete_powder"
+        },
+        {
+            "item": "minecraft:slime_ball"
+        },
+        {
+            "item": "minecraft:crossbow"
+        },
+        {
+            "item": "minecraft:villager_spawn_egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:pillager_spawn_egg",
+        "count": 1
+    }
+}

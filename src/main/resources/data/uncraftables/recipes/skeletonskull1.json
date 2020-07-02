@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BWB",
+        "FFF"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:honey_bottle"
+        },
+        "B": {
+            "item": "minecraft:bone_meal"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "F": {
+            "item": "minecraft:white_concrete_powder"
+        }
+    },
+    "result": {
+        "item": "minecraft:skeleton_skull",
+        "count": 1
+    }
+}

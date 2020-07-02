@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:light_gray_concrete_powder"
+        },
+        {
+            "item": "minecraft:slime_ball"
+        },
+        {
+            "item": "minecraft:iron_axe"
+        },
+        {
+            "item": "minecraft:villager_spawn_egg"
+        }
+    ],
+    "result": {
+        "item": "minecraft:vindicator_spawn_egg",
+        "count": 1
+    }
+}
