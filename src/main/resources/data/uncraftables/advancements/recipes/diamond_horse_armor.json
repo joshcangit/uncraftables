@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "uncraftables:diamond_horse_armor"
+    ]
+  },
+  "criteria": {
+    "has_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_helmet"
+          }
+        ]
+      }
+    },
+    "has_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:diamond_boots"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "uncraftables:diamond_horse_armor"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_helmet",
+      "has_boots",
+      "has_the_recipe"
+    ]
+  ]
+}
