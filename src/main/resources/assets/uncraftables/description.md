@@ -1,22 +1,17 @@
 What does this mod do?
 ==================
-A lot of Vanilla Minecraft items are uncraftable and some of them can only obtained via grinding or luck or once. I want to change this, but I'm a big fan of balancing, so these items are still hard to obtain in my opinion, even with this mod. If not make it hard, we may just play in Creative mode, right?
+A lot of Vanilla Minecraft items are uncraftable and some of them can only obtained via grinding or luck or once. I want to change this, but I'm a big fan of balancing, so these items are still relatively hard to obtain in my opinion, even with this mod. If not make it hard, we may just play in Creative mode, right?
 
-The first recipe lets you turn a skeleton skull into a wither skull by adding some coal and black concrete powder to it and making it stick with honey or slime. Nobody will notice the difference! That way, you can effectively farm skeletons instead of wither skeletons which are more common and even have spawners. This mod does not increase the drop chance for the skulls, though.
+Highlights
+------------------
 
-![1. row: Honey Bottle (or Slimeball) / Coal / Honey Bottle (or Slimeball); 2. row: Coal / Skeleton Skull / Coal; 3. row: Black Concrete Powder x3 (note that you can't mix Honey Bottle and Slimeball in this recipe)](https://media.forgecdn.net/attachments/thumbnails/300/409/310/172/witherskull_recipe.png "Wither Skull Crafting Recipe")
-
-In case collecting skeleton skulls or fighting the wither is still too much work, there is a possibility to craft a nether star, but this is designed as end game content, so the ingredients are a bit extraordinary. You will need... *checks notes* ah, yes, several things! Take a ghast tear, put it into a phantom membrane and then fill that with dragon breath. This is the core of our star. Now add a block of diamonds and a block of emeralds for shinyness, blue ice for transparency, a prismarine shard for form, a netherine ingot for sturdyness and a block of honey or slime to keep it all together. Tadaa, new nether star! For convenience's sake (and because I didn't want to add a new item) you can complete both steps at once. For inconvenience's sake the crafting is not shapeless because I want the dragon breath to be in the middle.
+In case collecting wither skeleton skulls or fighting the wither is too much work, there is a possibility to craft a nether star, but this is designed as end game content, so the ingredients are a bit extraordinary. You will need... *checks notes* ah, yes, several things! Take a ghast tear, put it into a phantom membrane and then fill that with dragon breath. This is the core of our star. Now add a block of diamonds and a block of emeralds for shinyness, blue ice for transparency, a prismarine shard for form, a netherine ingot for sturdyness and a block of honey or slime to keep it all together. Tadaa, new nether star! For convenience's sake (and because I didn't want to add a new item) you can complete both steps at once. For inconvenience's sake the crafting is not shapeless because I want the dragon breath to be in the middle.
 
 ![1. row: Prismarine Shard / Ghast Tear / Phantom Membrane; 2. row: Diamond Block / Dragon Breath / Emerald Block; 3. row: Blue Ice / Netherite Ingot / Honey Block (or Slime Block)](https://media.forgecdn.net/attachments/thumbnails/300/412/310/172/netherstar_recipe.png "Nether Star Crafting Recipe")
 
 Tridents are really easy to make by comparison if you are bleeding diamonds and have bested some guardians. Just take a long stick, wrap it with prismarine and diamonds and add some sharp prismarine crystals on top of it. Easy, right?
 
 ![1. row: Prismarine Crystals (x3); 2. row: Diamond Block / Stick / Diamond Block; 3. row: Prismarine / Stick / Prismarine](https://media.forgecdn.net/attachments/300/499/trident_recipe.png "Trident Crafting Recipe")
-
-Gilded blackstone is a new fancy stone I haven't encountered yet and I'm sure it is not too hard to get in a bastion. But I found out if you use lava mixed with ghast tears to melt a large amount of netherine and gold over cracked blackstone, it will turn out just the same. Don't ask me how, metallurgy is a dwarf's area of expertise!
-
-![1. row: Ghast Tear / Lava Bucket / Ghast Tear; 2.row: Gold Block / Netherite Block / Gold Block; 3. row: Cracked Polished Blackstone Bricks (x3)](https://media.forgecdn.net/attachments/300/500/gildedblackstone_recipe.png "Gilded Blackstone Crafting Recipe")
 
 Elytras are really easy to craft though. Why has no one else figured that out yet? Just strap some phantom membrane on some end rods and add a nether star for good measure and off we go!
 
@@ -34,6 +29,47 @@ And since evolution exists, how about we make the spawn of the ender dragon we d
 
 ![1. row: Prismarine Crystals / Pufferfish Bucket / Prismarine Crystals; 2. row: Prismarine Shard / Dragon Egg / Prismarine Shard; 3. row: Wet Sponge / Heart of the Sea / Wet Sponge](https://media.forgecdn.net/attachments/300/510/elderguardian_recipe.png "Elder Guardian Spawn Egg Crafting Recipe")
 
+But of course we can take the evolution into another direction. Take a totem of undying for the basic shape, leather boots for clothing, an iron ingot to let them summon iron golems later, a crafting table and some agriculture stuff so they have the basic stuff to set up a village!
+
+![1. row: Apple / Totem of Undying / Honey Bottle; 2. row: Seeds / Dragon Egg / Iron Ingot; 3. row: Water Bucket / Leather Boots / Crafting Table](https://media.forgecdn.net/attachments/301/220/villager_spawn_egg_recipe.png "Villager Spawn Egg Crafting Recipe")
+
+List of recipes
+------------------
+* Chainmail Boots
+* Chainmail Chestplate
+* Chainmail Helmet
+* Chainmail Keggins
+* Creeper Head
+* Crying Obsidian
+* Diamond Horse Armor
+* Dragon Egg
+* Dragon Head
+* Elder Guardian Spawn Egg
+* Elytra
+* Evoker Spawn Egg
+* Gilded Blackstone
+* Golden Horse Armor
+* Iron Horse Armor
+* Leather Horse Armor (*)
+* Leather (**)
+* Nether Star
+* Pillager Spawn Egg
+* Saddle
+* Skeleton Skull
+* Trident
+* Villager Spawn Egg
+* Vindicator Spawn Egg
+* Wither Skeleton Skull
+* Zombie Head
+
+All crafting recipes can be found under the "Images" tab on this mod page as well as in the JAR under assets. They will also be added to your Recipe Book when you get hold of the appropiate ingredients.
+
+(*) There is already a recipe for Leather Horse Armor, but I think mine is more beautiful, even if it needs more leather, and mine is (of course) in the same style as the other horse armors, hence I still added the leather variant.
+
+(**) Saddles are not stackable by default and I just got so many from fishing, so I added a recipe to turn it into leather while I was at it, even though Leather is already craftable.
+
+I had to override the original recipes of these two so they are properly grouped in the Recipe Book. This might do some problems if you use other mods changing these recipes. If you encounter problems, drop a comment or file an issue :-)
+
 Modpacks
 ==================
 Go ahead, just list me as author of this mod in your mod list (CC-BY-4.0 license and all that). If you want to give me extra pleasure, notify me in the comments if you included this mod in your modpack.
@@ -45,6 +81,7 @@ But if you want a fabric port to older versions, I might do it if you ask me to 
 
 Changelog
 ==================
+* 1.3.4-1.16.1: Nerfed Gilded Blackstone, added recipe advancements and groups as well as recipes for the following items: all Chainmail armor, all Horse Armor variants, missing Heads/Skulls, Crying Obsidian, Saddle, Leather and Spawn Eggs for Villager, Pillager, Evoker and Vindicator.
 * 1.2.2-1.16.1: New recipes added for Gilded Blackstone, Trident, Elytra, Dragon Head,
 Dragon Egg and Elder Guardian Spawn Egg.
-* 1.0.1-1.16.1: First release with crafting recipes for Wither Skull and Nether Star.
+* 1.0.1-1.16.1: First release with crafting recipes for Wither Skeleton Skull and Nether Star.
