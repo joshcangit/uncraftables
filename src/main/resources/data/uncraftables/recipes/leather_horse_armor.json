@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "leather_horse_armor",
+    "pattern": [
+        "  #",
+        "LLL",
+        "G G"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:leather_helmet"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "G": {
+            "item": "minecraft:leather_boots"
+        }
+    },
+    "result": {
+        "item": "minecraft:leather_horse_armor",
+        "count": 1
+    }
+}

@@ -3,14 +3,18 @@
     "pattern": [
         "# #",
         "###",
-        "###"
+        "I#I"
     ],
     "key": {
         "#": {
             "item": "minecraft:chain"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
         }
     },
     "result": {
-        "item": "minecraft:chainmail_chestplate"
+        "item": "minecraft:chainmail_chestplate",
+        "count": 1
     }
 }

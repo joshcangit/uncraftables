@@ -16,12 +16,12 @@
         ]
       }
     },
-    "has_glowstone_dust": {
+    "has_tear": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:glowstone_dust"
+            "item": "minecraft:ghast_tear"
           }
         ]
       }
@@ -36,7 +36,7 @@
   "requirements": [
     [
       "has_obsidian",
-      "has_glowstone_dust",
+      "has_tear",
       "has_the_recipe"
     ]
   ]

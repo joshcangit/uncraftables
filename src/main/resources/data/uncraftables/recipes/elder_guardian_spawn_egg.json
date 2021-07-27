@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#P#",
+        "ODO",
+        "WHW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "P": {
+            "item": "minecraft:pufferfish_bucket"
+        },
+        "O": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "D": {
+            "item": "minecraft:dragon_egg"
+        },
+        "W": {
+            "item": "minecraft:wet_sponge"
+        },
+        "H": {
+            "item": "minecraft:heart_of_the_sea"
+        }
+    },
+    "result": {
+        "item": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+    }
+}

@@ -2,17 +2,18 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
-        "I I"
+        "i i"
     ],
     "key": {
         "#": {
             "item": "minecraft:leather"
         },
-        "I": {
-            "item": "minecraft:iron_nugget"
+        "i": {
+            "item": "minecraft:iron_ingot"
         }
     },
     "result": {
-        "item": "minecraft:saddle"
+        "item": "minecraft:saddle",
+        "count": 1
     }
 }

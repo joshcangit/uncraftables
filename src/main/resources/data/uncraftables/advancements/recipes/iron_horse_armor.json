@@ -6,22 +6,22 @@
     ]
   },
   "criteria": {
-    "has_leather_horse_armor": {
+    "has_helmet": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:leather_horse_armor"
+            "item": "minecraft:iron_helmet"
           }
         ]
       }
     },
-    "has_iron_ingot": {
+    "has_boots": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:iron_ingot"
+            "item": "minecraft:iron_boots"
           }
         ]
       }
@@ -35,8 +35,8 @@
   },
   "requirements": [
     [
-      "has_leather_horse_armor",
-      "has_iron_ingot",
+      "has_helmet",
+      "has_boots",
       "has_the_recipe"
     ]
   ]
