@@ -1,12 +1,12 @@
 {
     "type": "minecraft:crafting_shapeless",
-    "group": "leather",
     "ingredients": [
         {
-            "item": "minecraft:saddle"
+            "item": "minecraft:nether_wart_block"
         }
     ],
     "result": {
-        "item": "minecraft:leather"
+        "item": "minecraft:nether_wart",
+        "count": 9
     }
 }

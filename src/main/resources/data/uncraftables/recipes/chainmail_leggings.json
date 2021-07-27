@@ -1,6 +1,7 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
+        "###",
         "# #",
         "# #"
     ],
@@ -10,6 +11,6 @@
         }
     },
     "result": {
-        "item": "minecraft:chainmail_boots"
+        "item": "minecraft:chainmail_leggings"
     }
 }

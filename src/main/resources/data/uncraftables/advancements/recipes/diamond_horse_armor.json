@@ -6,22 +6,22 @@
     ]
   },
   "criteria": {
-    "has_helmet": {
+    "has_leather_horse_armor": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:diamond_helmet"
+            "item": "minecraft:leather_horse_armor"
           }
         ]
       }
     },
-    "has_boots": {
+    "has_diamond": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:diamond_boots"
+            "item": "minecraft:diamond"
           }
         ]
       }
@@ -35,8 +35,8 @@
   },
   "requirements": [
     [
-      "has_helmet",
-      "has_boots",
+      "has_leather_horse_armor",
+      "has_diamond",
       "has_the_recipe"
     ]
   ]

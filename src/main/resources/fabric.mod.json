@@ -9,9 +9,8 @@
     "Ayutac"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/uncraftable-recipes",
-    "sources": "https://github.com/Ayutac/uncraftables",
-    "issues": "https://github.com/Ayutac/uncraftables/issues"
+    "sources": "https://github.com/joshcangit/uncraftables",
+    "issues": "https://github.com/joshcangit/uncraftables/issues"
   },
 
   "license": "CC-BY-4.0",
@@ -30,7 +29,7 @@
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17.x"
   },
   "suggests": {
     "flamingo": "*"

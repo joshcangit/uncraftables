@@ -2,26 +2,36 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "uncraftables:crying_obsidian"
+      "uncraftables:name_tag"
     ]
   },
   "criteria": {
-    "has_obsidian": {
+    "has_paper": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:obsidian"
+            "item": "minecraft:paper"
           }
         ]
       }
     },
-    "has_glowstone_dust": {
+    "has_rabbit_hide": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:glowstone_dust"
+            "item": "minecraft:rabbit_hide"
+          }
+        ]
+      }
+    },
+    "has_string": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:string"
           }
         ]
       }
@@ -29,14 +39,15 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "uncraftables:crying_obsidian"
+        "recipe": "uncraftables:name_tag"
       }
     }
   },
   "requirements": [
     [
-      "has_obsidian",
-      "has_glowstone_dust",
+      "has_paper",
+      "has_rabbit_hide",
+      "has_string",
       "has_the_recipe"
     ]
   ]
