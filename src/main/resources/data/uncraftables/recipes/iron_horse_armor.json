@@ -1,23 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "  #",
-        "iii",
-        "I I"
+        "  i",
+        "iLi",
+        "iii"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:iron_helmet"
-        },
         "i": {
             "item": "minecraft:iron_ingot"
         },
-        "I": {
-            "item": "minecraft:iron_boots"
+        "L": {
+            "item": "minecraft:leather_horse_armor"
         }
     },
     "result": {
-        "item": "minecraft:iron_horse_armor",
-        "count": 1
+        "item": "minecraft:iron_horse_armor"
     }
 }

@@ -2,26 +2,16 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "uncraftables:saddle"
+      "uncraftables:nether_wart"
     ]
   },
   "criteria": {
-    "has_leather": {
+    "has_block": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:leather"
-          }
-        ]
-      }
-    },
-    "has_iron": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:iron_nugget"
+            "item": "minecraft:nether_wart_block"
           }
         ]
       }
@@ -29,14 +19,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "uncraftables:saddle"
+        "recipe": "uncraftables:nether_wart"
       }
     }
   },
   "requirements": [
     [
-      "has_leather",
-      "has_iron",
+      "has_block",
       "has_the_recipe"
     ]
   ]
