@@ -26,14 +26,17 @@ List of recipes
 
 * Saddle
 
+* String [^3]
 
 All crafting recipes can be found in the JAR under assets. They will also be added to your Recipe Book when you get hold of the appropriate ingredients.
 
-[^1]: There is already a recipe for Chains, but I have edited it to 3 Iron Nuggets which is a cheaper recipe.
+[^1]: There is already a recipe for Chains, but I have edited it to just requiring Iron Nuggets.
 
 [^2]: Saddles are not stackable by default and I just got so many from fishing, so I added a recipe to turn it into leather while I was at it, even though Leather is already craftable.
 
-I had to override the original recipes of these two so they are properly grouped in the Recipe Book. This might do some problems if you use other mods changing these recipes. If you encounter problems, drop a comment or file an issue :-)
+[^3]: String can be crafted from cobwebs but on Bedrock Edition. This adds that recipe to the Java Edition.
+
+I have overridden an original recipe so it is properly grouped in the Recipe Book. This might do some problems if you use other mods changing that recipe. If you encounter problems, drop a comment or file an issue :-)
 
 Modpacks
 ==================

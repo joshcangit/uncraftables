@@ -23,3 +23,6 @@
 ![Shapeless: Nether Wart Block](https://raw.githubusercontent.com/joshcangit/uncraftables/master/src/main/resources/assets/uncraftables/nether_wart_recipe.png "Nether Wart Crafting Recipe")
 
 ![1. row: Leather (x3); 2. row: Iron Ingot / (empty) / Iron Ingot](https://raw.githubusercontent.com/joshcangit/uncraftables/master/src/main/resources/assets/uncraftables/saddle_recipe.png "Saddle Crafting Recipe")
+
+![Shapeless: Cobweb](https://raw.githubusercontent.com/joshcangit/uncraftables/master/src/main/resources/assets/uncraftables/string_recipe.png "String Crafting Recipe")
+
